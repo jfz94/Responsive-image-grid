@@ -1,0 +1,15 @@
+{
+  "name": "responsive-website",
+  "version": "1.0.0",
+  "description": "responsive website with a single CSS line",
+  "main": "main.js",
+  "author": "jordi",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^3.1.1"
+  }
+}
