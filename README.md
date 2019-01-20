@@ -1,7 +1,7 @@
 # Responsive-image-grid
 Responsive image grid using as less as CSS code as possible
 
-(https://github.com/jfz94/Responsive-image-grid/blob/master/img/img1.PNG)](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431)
+[![N|Solid](https://github.com/jfz94/Responsive-image-grid/blob/master/img/img1.PNG)](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431)
 
 
 ### Prerequisites
